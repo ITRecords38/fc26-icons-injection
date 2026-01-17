@@ -56,15 +56,19 @@ lua_players_by_revision/
 └─ Debut_Icon/
    └─ ...
 
+
+
+
+
 ---
-Requirements
+
+🛠 Requirements
 
 EA SPORTS FC 26 (PC)
 
 FC 26 Live Editor
 
 Lua scripts enabled
-
 
 ▶️ Usage
 
