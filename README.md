@@ -41,6 +41,12 @@ This project follows the same philosophy as my previous FC25 work:
 
 ---
 
+
+---
+
+## ✅ VERSION FINALE À AVOIR (copie visuelle)
+
+```md
 ## 📂 Structure
 
 ```text
@@ -56,25 +62,5 @@ lua_players_by_revision/
 └─ Debut_Icon/
    └─ ...
 
----
 
-🛠 Requirements
-
-EA SPORTS FC 26 (PC)
-
-FC 26 Live Editor
-
-Lua scripts enabled
-
----
-
-▶️ Usage
-
-Extract the ZIP archive
-
-Place the folders inside your Live Editor lua directory
-
-Load the scripts via Live Editor
-
-Players will appear as Free Agents
 
