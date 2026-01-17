@@ -40,7 +40,6 @@ This project follows the same philosophy as my previous FC25 work:
 - **No crashes / no desktop return** (fully tested)
 
 ---
-
 ## 📂 Structure
 
 ```text
@@ -55,10 +54,6 @@ lua_players_by_revision/
 │
 └─ Debut_Icon/
    └─ ...
-
-
-
-
 
 ---
 
