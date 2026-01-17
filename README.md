@@ -55,6 +55,7 @@ lua_players_by_revision/
 └─ Debut_Icon/
    └─ ...
 
+
 ```
 🛠 Requirements
 
@@ -63,6 +64,7 @@ EA SPORTS FC 26 (PC)
 FC 26 Live Editor
 
 Lua scripts enabled
+
 
 
 ▶️ Usage
@@ -74,6 +76,7 @@ Place the folders inside your Live Editor lua directory
 Load the scripts via Live Editor
 
 Players will appear as Free Agents
+
 
 
 
