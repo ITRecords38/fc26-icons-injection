@@ -78,6 +78,15 @@ Load the scripts via Live Editor
 Players will appear as Free Agents
 
 
+---
+
+## 🔗 Licence | License
+
+Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC26 appartiennent à EA SPORTS.
+This pack is for non-commercial use only. All rights to FC26 belong to EA SPORTS.
+
+
+
 
 
 
