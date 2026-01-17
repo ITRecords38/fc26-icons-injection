@@ -65,7 +65,7 @@ FC 26 Live Editor
 
 Lua scripts enabled
 
----
+<br>
 
 ▶️ Usage
 
@@ -76,6 +76,7 @@ Place the folders inside your Live Editor lua directory
 Load the scripts via Live Editor
 
 Players will appear as Free Agents
+
 
 
 
