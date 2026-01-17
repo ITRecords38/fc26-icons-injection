@@ -2,6 +2,7 @@
 
 > 🔗 Basé sur le travail original de [xAranaktu - FC 26 Live Editor](https://github.com/xAranaktu/FC-26-Live-Editor)
 
+
 Heroes & Icons player injection for **EA SPORTS FC 26** using **Live Editor (Lua API)**.
 
 This repository provides a complete **Heroes & Icons injection pack** for FC 26, designed to safely add legendary players into the game without overwriting the original EA database.
@@ -75,6 +76,7 @@ Place the folders inside your Live Editor lua directory
 Load the scripts via Live Editor
 
 Players will appear as Free Agents
+
 
 
 
