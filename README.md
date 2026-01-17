@@ -1,5 +1,3 @@
-FC26 – Heroes & Icons Injection (Live Editor)
-
 ![FC26 Icons Injection Pack](releases/release_1.0.png)
 
 
@@ -81,5 +79,6 @@ Extract the ZIP
 Place the folders inside your Live Editor lua directory
 
 Load the scripts via Live Editor
+
 
 Players will appear as Free Agents
