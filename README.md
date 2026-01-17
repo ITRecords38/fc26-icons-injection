@@ -55,17 +55,19 @@ No crashes / no desktop return (fully tested)
 
 ## 📂 Structure
 
+```text
 lua_players_by_revision/
 ├─ Heroes/
-│ ├─ 18814_Papin.lua
-│ ├─ 5454_Lizarazu.lua
-│ └─ ...
+│  ├─ 18814_Papin.lua
+│  ├─ 5454_Lizarazu.lua
+│  └─ ...
 │
 ├─ Champion_Icon/
-│ └─ ...
+│  └─ ...
 │
 └─ Debut_Icon/
-└─ ...
+   └─ ...
+
 
 
 
@@ -88,4 +90,5 @@ Load the scripts via Live Editor
 
 
 Players will appear as Free Agents
+
 
