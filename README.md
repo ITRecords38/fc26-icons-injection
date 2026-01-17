@@ -11,6 +11,7 @@ All players are generated from official EA database data, using safe fictive pla
 The project follows the same philosophy as my previous FC25 work:
 👉 https://github.com/ITRecords38/fc25-icons-injection
 
+
 ✅ Features
 
 One .lua file per player
@@ -51,18 +52,22 @@ Compatible with FC 26 Live Editor – CreatePlayer API
 
 No crashes / no desktop return (fully tested)
 
-📂 Structure
+
+## 📂 Structure
+
 lua_players_by_revision/
 ├─ Heroes/
-│   ├─ 18814_Papin.lua
-│   ├─ 5454_Lizarazu.lua
-│   └─ ...
+│ ├─ 18814_Papin.lua
+│ ├─ 5454_Lizarazu.lua
+│ └─ ...
 │
 ├─ Champion_Icon/
-│   └─ ...
+│ └─ ...
 │
 └─ Debut_Icon/
-    └─ ...
+└─ ...
+
+
 
 🛠 Requirements
 
@@ -71,6 +76,7 @@ EA SPORTS FC 26 (PC)
 FC 26 Live Editor
 
 Lua scripts enabled
+
 
 ▶️ Usage
 
@@ -82,3 +88,4 @@ Load the scripts via Live Editor
 
 
 Players will appear as Free Agents
+
