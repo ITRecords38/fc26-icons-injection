@@ -1,7 +1,11 @@
 ![FC26 Icons Injection Pack](releases/release_1.0.png)
 
-> 🔗 Basé sur le travail original de [xAranaktu - FC 26 Live Editor](https://github.com/xAranaktu/FC-26-Live-Editor)
+[![Live Editor](https://img.shields.io/badge/Live%20Editor-Compatible-brightgreen)](#)
+[![Ready](https://img.shields.io/badge/Ready-For%20Use-success)](#)
+[![Game](https://img.shields.io/badge/Game-FC26-blue)](#)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-gold)](#)
 
+> 🔗 Based on the original work of [xAranaktu – FC Live Editor](https://github.com/xAranaktu/FC-25-Live-Editor)
 
 Heroes & Icons player injection for **EA SPORTS FC 26** using **Live Editor (Lua API)**.
 
@@ -84,6 +88,7 @@ Players will appear as Free Agents
 
 Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC26 appartiennent à EA SPORTS.
 This pack is for non-commercial use only. All rights to FC26 belong to EA SPORTS.
+
 
 
 
