@@ -1,7 +1,5 @@
 ![FC26 Icons Injection Pack](releases/release_1.0.png)
 
-![FC26 Icons Injection Pack](releases/release_1.0.png)
-
 [![Live Editor](https://img.shields.io/badge/Live%20Editor-Compatible-brightgreen)](#)
 [![Ready](https://img.shields.io/badge/Ready-For%20Use-success)](#)
 [![Game](https://img.shields.io/badge/Game-FC26-blue)](#)
@@ -93,6 +91,7 @@ Players will appear as Free Agents
 
 Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC26 appartiennent à EA SPORTS.
 This pack is for non-commercial use only. All rights to FC26 belong to EA SPORTS.
+
 
 
 
