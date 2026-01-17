@@ -4,7 +4,6 @@
 [![Ready](https://img.shields.io/badge/Ready-For%20Use-success)](#)
 [![Game](https://img.shields.io/badge/Game-FC26-blue)](#)
 [![Release](https://img.shields.io/badge/Release-v1.0.0-gold)](#)
-
 [![OS](https://img.shields.io/badge/OS-Windows-blue)](#)
 [![Language](https://img.shields.io/badge/Language-Lua-lightgrey)](#)
 
@@ -92,6 +91,7 @@ Players will appear as Free Agents
 
 Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC26 appartiennent à EA SPORTS.
 This pack is for non-commercial use only. All rights to FC26 belong to EA SPORTS.
+
 
 
 
