@@ -7,7 +7,11 @@
 [![OS](https://img.shields.io/badge/OS-Windows-blue)](#)
 [![Language](https://img.shields.io/badge/Language-Lua-lightgrey)](#)
 
+<br>
+
 > 🔗 Based on the original work of [xAranaktu – FC Live Editor](https://github.com/xAranaktu/FC-25-Live-Editor)
+
+
 
 
 Heroes & Icons player injection for **EA SPORTS FC 26** using **Live Editor (Lua API)**.
@@ -91,6 +95,7 @@ Players will appear as Free Agents
 
 Ce pack est fourni à des fins non commerciales. Tous les droits relatifs à FC26 appartiennent à EA SPORTS.
 This pack is for non-commercial use only. All rights to FC26 belong to EA SPORTS.
+
 
 
 
